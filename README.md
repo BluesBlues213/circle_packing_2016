@@ -9,4 +9,4 @@ In human brains, axon sizes follow a Gamma distribution of known shape and scale
 
 The code is fast if N is on order of 10 (~2 minutes for 50 circles). However, it also copes with large samples as well. See example figure for packing result of N=3000 circles following a Gamma distribution in size. Packing density reaches 85%, the theoretial maximum based on tortuosity.  
 
-To confirm the algorithm's robustness on first pass, if the input is circles of uniform size, it converges to hexgonal packing.
+To confirm the algorithm's robustness on first pass, if the input is circles of uniform size, it converges to hexgonal close packing (HCP).
