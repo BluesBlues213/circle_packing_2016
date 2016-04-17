@@ -1,7 +1,7 @@
 # circle_packing_2016
 updated March 09 2016  
 
-This code generates random close packing (RCP) on an input of N radii following any arbitrary distribution of size.
+This algorithm produces random close packing (RCP) on an input of N radii following any arbitrary distribution of size.
 
 My PhD work involves modelling of white matter microstructure in the human brain which can be modeled as hollow cylinders running in parallel. A 2-dimensional cross section of such a cylindrical bundle to its longitudinal axis can be represented by a packing of circles.
 
