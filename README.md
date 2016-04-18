@@ -1,4 +1,4 @@
-# Motivation and Theory
+# Motivation & Theory
 
 Updated March 09 2016  
 
