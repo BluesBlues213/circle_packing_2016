@@ -1,3 +1,5 @@
+# About
+
 Updated March 09 2016  
 
 This algorithm produces random close packing or RCP on an input of N radii following any arbitrary distribution of size.
