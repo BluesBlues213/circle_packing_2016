@@ -1,4 +1,4 @@
-# About
+# Motivation and Theory
 
 Updated March 09 2016  
 
@@ -14,5 +14,5 @@ Packing result for N=3332 circles, Gamma distributed in size with shape factor 3
 
 # Input / Output
 
-function [NWP,NWR] = pack_v(f) generates positions of circles and corresponding radii given an input vector f of radii size.
+function [NWP,NWR] = pack_v(f) ... outputs positions of circles (NWP) and corresponding radii (NWR) given an input vector (f) of radii size.
 
