@@ -8,6 +8,9 @@ This algorithm is developed with motivation from electromagnetic theory. Given N
 
 For small N (~50) algorithm takes ~2 minutes with 8GB of RAM. For large N (~3000), algorithm takes 10 hours. To confirm the method's robustness on first pass, if the input is circles of uniform size, it converges to hexgonal close packing (HCP). 
 
-Packing result for N=3332 circles, Gamma distributed in size with shape factor 3.81, is shown in <result_v1>.
+Packing result for N=3332 circles, Gamma distributed in size with shape factor 3.81, is shown in result_v1.png
 
+# Input / Output
+
+function [NWP,NWR] = pack_v(f) generates positions of circles and corresponding radii given an input vector f of radii size.
 
