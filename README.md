@@ -1,6 +1,8 @@
 # Input / Output
 
-function [NWP,NWR] = pack_v(f) ... outputs positions of circles (NWP) and corresponding radii (NWR) given an input vector (f) of radii size.
+function [NWP,NWR] = pack_v(f) 
+
+Outputs positions of circles (NWP) and corresponding radii (NWR) given an input vector (f) of radii size. Output also generates a plot of packing and a plot of circle size vs distance from the center of the packing to evaluate packing bias.   
 
 # Result Example
 
